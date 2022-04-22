@@ -21,18 +21,37 @@ h1{
     color: aliceblue;
 }
 
-main img{
+.photo1special{
     padding-top: 70px;
 }
 
-.first{
-    border: 2px solid green;
-    position: relative;
-    left: 130px;
-    font-size: 36px;
-    width: 405px;
-    height: 110px;    
+section{
+    display: flex;
 }
 
+.specialtext1{
+    width: 405px;
+    height: 150px;
+    font-size: 36px;
+    position: relative;
+    left: 80px;
+    top: 70px;
+}
+
+.specialtext2{
+    width: 405px;
+    height: 100px;
+    font-size: 14px;
+    position: relative;
+    top: 210px;
+    right: 329px;
+}
+
+.specialphoto2{
+    position: relative;
+    top: 626px;
+    left: 349px;
     
+}
+
     
