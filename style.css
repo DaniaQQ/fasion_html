@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+min-height: 100%;
+min-width: 100%;
+}
+h1{
+    
+    width: 190px;
+    height: 30px;
+    position: absolute;
+    top: 30px;
+    left:30px;
+    color: aliceblue;
+
+}
+main img{
+    padding-top: 70px;
+}
+.first{
+    border: 2px solid green;
+    position: relative;
+    left: 130px;
+    font-size: 36px;
+    width: 405px;
+    height: 110px;
+
+    
+}
+    
+    
