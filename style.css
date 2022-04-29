@@ -60,8 +60,7 @@ header h1{
 .photo_special_right_img{
     position: relative;
     top: 626px;
-    display: flex;
-    
+    display: flex;    
 }
 .project_content{
     background-color: black;
@@ -70,13 +69,114 @@ header h1{
     position: relative;
     top: 400px;
 }
+
 .about_special{
     padding-left: 30px;
 }
 
+.project_title_background{
+    background-color: black;
+    height: 750px; 
+    margin-top: 385px;   
+    display: flex;
+    flex-direction: row-reverse;
 
+}
 
-
-
+.project_title_photo{
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+    justify-content: center;
+    align-items: center;
     
+}
+
+.project_title_photo img{
+    margin-top: 80px;
+}
+
+.project_content_free{
+   width: 100%; 
+   display: flex;
+   justify-content: center;
+   align-items: center; 
+   flex-direction: column;
+   padding-top: 80px;
+}
+
+.project_content_free div{
+   width: 100%;
+   color: aliceblue;
+}
+
+.project_content_top{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    position: relative;
+    right: 80px; 
+    bottom: 22~px;  
+}
+
+.project_content_title{
+    height:64%;
+    width: 100%;   
+}
+.project_content_project{
+    width: 100%;
+    height: 20px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    position: relative;
+    right: 80px;
+    top: 110px;
+    font-size: 16px;
+}
+
+.project_content_title_h2{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    position: relative;
+    right: 80px;
+    top: 135px;
+    font-size: 36px;
+}
+
+.project_content_title_lorem_ipsum{
+    width: 405px;
+    height: 120px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    position: relative;
+    left: 276px;
+    top: 165px;
+    font-size: 14px;
+    text-align: right;
+}
+
+.project_content_title_viev{
+    width: 100%;
+    height:20px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    position: relative;
+    right: 80px;
+    top: 185px;
+    font-size: 16px;
+}
+
+.project_text{
+    position: relative;
+    right: 30px;    
+}
+
   
