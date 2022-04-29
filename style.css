@@ -26,7 +26,6 @@ header h1{
     
 }
 .text_wrapper_special_phtography{
-
     display: flex;
     font-size: 36px; 
     width: 405px;
@@ -46,8 +45,7 @@ header h1{
     top:90px;
     left: 80px;
 }
-.about_us{
-   
+.about_us{ 
     font-size: 16px;
     width: 300px;
     height: 40px;
@@ -179,4 +177,67 @@ header h1{
     right: 30px;    
 }
 
-  
+.project_background_photo{
+    width: 100%;
+    max-height:100vh;
+}
+
+.content_inside{
+    width: 405px;
+    height: 550px;
+    position: relative;
+    bottom: 630px;
+    left: 90px;
+    color: aliceblue;
+}
+
+.content_nomber_fre{
+    width: 405px;
+    height: 19px;
+}
+
+.project_content_header{
+    width: 405px;
+    height: 19px;
+    position: relative;
+    top: 19px;
+    font-size: 16px;
+}
+
+.project_wrapper{
+    max-height: 100vh; 
+}
+
+.project_header_two{
+    width: 405px;
+    height: 37px;
+    position: relative;
+    top: 62px;
+    font-size:36px ;
+}
+
+.project_ipsum{
+    width: 405px;
+    height: 117px;
+    position: relative;
+    top:100px;
+    font-size: 14px;
+}
+
+.project_link{
+    width: 405px;
+    height: 27px;
+    position: relative;
+    top: 130px;
+    font-size: 16px;
+   
+}
+.project_svg_arrow{
+    position: relative;
+    left: 16px;
+}
+
+.arrow_link{
+    position: relative;
+    top: 3px;
+}
