@@ -230,6 +230,7 @@ header h1{
     position: relative;
     top: 130px;
     font-size: 16px;
+    display: flex;
    
 }
 .project_svg_arrow{
@@ -240,4 +241,162 @@ header h1{
 .arrow_link{
     position: relative;
     top: 3px;
+    
+}
+
+.top_content_viev{
+    display: flex;
+    width: 300px;
+    height: 19px;
+    font-size: 16px;
+    position: relative;
+    top: 85px;
+    left: 490px;
+}
+
+.viev_photo{
+    position: relative;
+    left: 750px;
+    top: 135px;
+}
+
+.three_viev{
+    width: 50px;
+    height: 19px;
+    position: relative;
+    left: 150px;   
+}
+
+.project_header{
+    width:405px;
+    height: 250px; 
+    position: relative;
+    left: 200px;
+    bottom: 125px;   
+}
+
+.header_title{
+    width: 405px;
+    height: 37px;
+    font-size: 36px;
+    display: flex;
+    justify-content: right;
+}
+
+.header_ipsum{
+    width: 405px;
+    height: 117px;
+    position: relative;
+    top: 20px;
+    font: size 14px;
+    text-align: right;
+}
+
+.content_arrow{
+    width: 405px;
+    height: 28px;
+    position: relative;
+    top: 57px;
+    display: flex;
+}
+
+.projectt_link{
+    width: 88px;
+    height: 28px;
+    position: relative;
+    left: 235px;
+    font-size: 16px;
+
+}
+
+.aroww_link{
+    width: 50px;
+    height: 28px;
+    position: relative;
+    left: 260px;
+}
+
+.project_left_content{
+    border: 2px solid red;
+    width: 476px;
+    height: 1200px;
+    
+}
+
+.project_right_content{
+    border: 2px solid green;
+    width:686px;
+    height: 1200px;
+    position: relative;
+    left:410px;
+}
+
+.wrapper_content{
+    display: flex;
+}
+
+.four_content{
+    border: 2px solid red;
+    width: 476px;
+    height: 19px;
+    display: flex;
+    justify-content: right;
+}
+
+.content_featured{
+    border: 2px solid red;
+    width: 476px;
+    height: 17px;
+    display: flex;
+    justify-content: right;
+    position: relative;
+    top: 41px;
+}
+
+.right_photo{
+    position: relative;
+    top: 68px;
+}
+
+.oridnary_content{
+    border: 2px solid red;
+    width: 476px;
+    height: 43px;
+    font-size: 36px;
+    position: relative;
+    top: 120px;
+    display: flex;
+    justify-content: right;
+}
+
+.content_challenge{
+    border: 2px solid red;
+    width: 476px;
+    height: 68px;
+    position: relative;
+    top: 156px;
+    font-size:14px;
+    display: flex;
+    justify-content: right;
+    text-align: right;
+}
+
+.link_content{
+    border: 2px solid red;
+    width: 476px;
+    height: 27px;
+    position: relative;
+    top: 403px;
+    display: flex;
+}
+
+.viev_rigt{
+    font-size: 16px;
+    position: relative;
+    left: 336px;
+}
+
+.rigt_arrow{
+    position: relative;
+    left: 363px;
 }
