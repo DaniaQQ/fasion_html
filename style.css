@@ -317,15 +317,13 @@ header h1{
 }
 
 .project_left_content{
-    border: 2px solid red;
     width: 476px;
     height: 1200px;
     
 }
 
 .project_right_content{
-    border: 2px solid green;
-    width:686px;
+   width:686px;
     height: 1200px;
     position: relative;
     left:410px;
@@ -335,8 +333,7 @@ header h1{
     display: flex;
 }
 
-.four_content{
-    border: 2px solid red;
+.four_content{    
     width: 476px;
     height: 19px;
     display: flex;
@@ -344,7 +341,6 @@ header h1{
 }
 
 .content_featured{
-    border: 2px solid red;
     width: 476px;
     height: 17px;
     display: flex;
@@ -359,7 +355,6 @@ header h1{
 }
 
 .oridnary_content{
-    border: 2px solid red;
     width: 476px;
     height: 43px;
     font-size: 36px;
@@ -370,7 +365,6 @@ header h1{
 }
 
 .content_challenge{
-    border: 2px solid red;
     width: 476px;
     height: 68px;
     position: relative;
@@ -382,7 +376,6 @@ header h1{
 }
 
 .link_content{
-    border: 2px solid red;
     width: 476px;
     height: 27px;
     position: relative;
@@ -394,9 +387,38 @@ header h1{
     font-size: 16px;
     position: relative;
     left: 336px;
+    bottom: 150px;
 }
 
 .rigt_arrow{
     position: relative;
     left: 363px;
+    bottom: 150px;
+}
+
+.foter_viev{
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+
+.find_footer{
+    width: 140px;
+    height: 27px;
+    position: relative;
+    left: 1000px;
+}
+
+.instagram_footer{
+    width: 140px;
+    height: 27px;
+    position: relative;
+    left: 1080px;
+}
+
+.linkedin_footer{
+    width: 140px;
+    height: 27px;
+    position: relative;
+    left: 1120px;
 }
